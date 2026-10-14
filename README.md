@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 <div align="center">
 
-# 👋 Hi, I'm Manuka Ilangasinghe
+# Hi, I'm Manuka Ilangasinghe
 
 ### Software Engineering Undergraduate | Web Developer | Tech Enthusiast
 
@@ -26,21 +26,21 @@ Building practical applications, learning modern technologies, and turning ideas
 
 ---
 
-## 🧰 Technology Stack
+## Technology Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php" alt="HTML, CSS, JavaScript, TypeScript, Python and PHP" />
 </p>
 
-### 🎨 Frontend Development
+###  Frontend Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="React, Vite and Tailwind CSS" />
 </p>
 
-### ⚙️ Backend & Database
+###  Backend & Database
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mysql" alt="Node.js, Express, Firebase, Supabase and MySQL" />
@@ -56,9 +56,9 @@ Building practical applications, learning modern technologies, and turning ideas
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🚌 TapRide — Bus Management & Digital Wallet Project
+### TapRide — Bus Management & Digital Wallet Project
 
 A collaborative university software engineering project.
 
@@ -70,7 +70,7 @@ A collaborative university software engineering project.
 
 🔗 **[Explore TapRide](https://github.com/manukailangasinghe1-spec/TapRide-system)**
 
-### 🛍️ EECO POS System
+###  EECO POS System
 
 A point-of-sale and order-management application for business operations.
 
@@ -84,7 +84,7 @@ A point-of-sale and order-management application for business operations.
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -94,7 +94,7 @@ A point-of-sale and order-management application for business operations.
 
 </div>
 
-### 🔥 Contribution Streak
+###  Contribution Streak
 
 <div align="center">
 
@@ -104,7 +104,7 @@ A point-of-sale and order-management application for business operations.
 
 ---
 
-## 📈 My Development Journey
+##  My Development Journey
 
 I believe consistent learning, practical experience, and collaboration are essential to becoming a better software engineer.
 
@@ -112,7 +112,7 @@ My GitHub is where I document my progress, build applications, experiment with t
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
