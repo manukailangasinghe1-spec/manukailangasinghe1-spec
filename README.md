@@ -1,80 +1,127 @@
-# Hi, I'm Manuka Ilangasinghe 👋
+<!-- PROFILE HEADER -->
+<div align="center">
 
-### Software Engineering Undergraduate | Web Developer | AI/ML Enthusiast
+# 👋 Hi, I'm Manuka Ilangasinghe
 
-I'm a Software Engineering undergraduate at the **Open University of Sri Lanka (OUSL)**, passionate about building practical software solutions and continuously improving my development skills.
+### Software Engineering Undergraduate | Web Developer | Tech Enthusiast
 
-I enjoy learning new technologies, collaborating with development teams, and turning ideas into working applications.
+Building practical applications, learning modern technologies, and turning ideas into software.
 
-- 🎓 Studying Software Engineering at OUSL
-- 💻 Building web applications and software engineering projects
-- 🚀 Currently working on TapRide and other practical projects
-- 🌱 Learning modern web development, backend development, and AI/Machine Learning
-- 🤝 Interested in open-source projects and collaboration
-- 📍 Sri Lanka
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/manukailangasinghe1-spec)
+[![Location](https://img.shields.io/badge/Location-Sri%20Lanka-008000?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/manukailangasinghe1-spec)
 
----
-
-## 🛠️ Technologies & Tools
-
-**Languages**
-
-HTML · CSS · JavaScript · TypeScript · Python · PHP
-
-**Frontend Development**
-
-React · Tailwind CSS
-
-**Backend & Databases**
-
-CodeIgniter · Firebase · Supabase
-
-**Tools & Workflow**
-
-Git · GitHub · JIRA · Figma · Antigravity IDE
-
-*Technologies listed here reflect my learning and project experience. I'm continuously expanding my skills.*
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
 
-### 🚌 TapRide — Digital Wallet & Bus Management System
+- 🎓 Software Engineering undergraduate at the **Open University of Sri Lanka (OUSL)**.
+- 💻 Interested in web application development and software engineering.
+- 🌱 Continuously learning frontend development, backend development, and databases.
+- 🛠️ Working on practical projects, including TapRide and EECO POS System.
+- 🤝 Interested in collaborative development, open-source projects, and problem-solving.
+- 🎯 Goal: Become a skilled software engineer by building reliable, useful applications.
+- 📍 Based in Sri Lanka.
 
-A university group project focused on digital wallet functionality and bus management.
+---
 
-- Working on the frontend structure and React components.
-- Collaborating with team members using GitHub and JIRA.
-- Applying collaborative development workflows and UI/UX design.
+## 🧰 Technology Stack
 
-**Technologies:** React, TypeScript, Tailwind CSS  
-**Repository:** [View TapRide on GitHub](https://github.com/manukailangasinghe1-spec/TapRide-system)
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php" alt="HTML, CSS, JavaScript, TypeScript, Python and PHP" />
+</p>
+
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="React, Vite and Tailwind CSS" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mysql" alt="Node.js, Express, Firebase, Supabase and MySQL" />
+</p>
+
+### 🛠️ Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, Visual Studio Code and Figma" />
+</p>
+
+> I am continuously expanding my skills. The technologies above represent my learning and project interests; my project repositories show where I have applied them.
+
+---
+
+## 🌟 Featured Projects
+
+### 🚌 TapRide — Bus Management & Digital Wallet Project
+
+A collaborative university software engineering project.
+
+- Developing and improving user interface components.
+- Collaborating through GitHub and JIRA.
+- Applying component-based development and version control.
+
+**Tech Stack:** React · TypeScript · Tailwind CSS
+
+🔗 **[Explore TapRide](https://github.com/manukailangasinghe1-spec/TapRide-system)**
 
 ### 🛍️ EECO POS System
 
-A point-of-sale and order-management project focused on managing products, orders, and business operations.
+A point-of-sale and order-management application for business operations.
 
-- Developing practical business software features.
-- Exploring frontend and backend integration.
-- Improving data management and application design.
+- Exploring product and order management workflows.
+- Developing practical business application features.
+- Improving application structure and data management.
 
-**Repository:** [View EECO POS System](https://github.com/manukailangasinghe1-spec/eeco-pos-system)
+**Tech Stack:** TypeScript · Web Technologies
 
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manukailangasinghe1-spec&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manukailangasinghe1-spec&layout=compact&hide_border=true)
+🔗 **[Explore EECO POS System](https://github.com/manukailangasinghe1-spec/eeco-pos-system)**
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Statistics
 
-- GitHub: [@manukailangasinghe1-spec](https://github.com/manukailangasinghe1-spec)
-- Email: Contact me through the email listed on my GitHub profile.
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=manukailangasinghe1-spec&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manukailangasinghe1-spec&layout=compact&hide_border=true" alt="Most used repository languages" />
+
+</div>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=manukailangasinghe1-spec&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my development journey.
+## 📈 My Development Journey
+
+I believe consistent learning, practical experience, and collaboration are essential to becoming a better software engineer.
+
+My GitHub is where I document my progress, build applications, experiment with technologies, and improve my problem-solving skills.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github)](https://github.com/manukailangasinghe1-spec)
+
+<!-- Add your real LinkedIn profile URL when ready. -->
+
+**Let's learn, build, and grow together!**
+
+⭐ If you find my projects interesting, feel free to explore my repositories.
+
+</div>
