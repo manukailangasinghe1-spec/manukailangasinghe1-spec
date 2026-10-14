@@ -19,7 +19,7 @@ Building practical applications, learning modern technologies, and turning ideas
 - 🎓 Software Engineering undergraduate at the **Open University of Sri Lanka (OUSL)**.
 - 💻 Interested in web application development and software engineering.
 - 🌱 Continuously learning frontend development, backend development, and databases.
-- 🛠️ Working on practical projects, including TapRide and EECO POS System.
+- 🛠️ Working on practical projects, including TapRide and EECO ERP System.
 - 🤝 Interested in collaborative development, open-source projects, and problem-solving.
 - 🎯 Goal: Become a skilled software engineer by building reliable, useful applications.
 - 📍 Based in Sri Lanka.
